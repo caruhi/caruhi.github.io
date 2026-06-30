@@ -6,8 +6,7 @@ I'm a software developer and linguist interested in NLP, AI and data science.
 
 ## Projects
 
-- Project 1
-- Project 2
+- RASFF: investigating the Rapid Alert System for Food and Feed of the European Union
 
 ## Contact
 
