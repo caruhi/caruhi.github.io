@@ -7,13 +7,13 @@ title: Home
 
 Hi, I'm Carolina Rubio.
 
-I'm a software developer and linguist interested in NLP, AI and data science.
+I'm a software developer and linguist interested in NLP, AI and data science. I am a co-founder of a NLP SDK called Wowool. 
 
 ## Projects
 
 - RASFF: investigating the Rapid Alert System for Food and Feed of the European Union
 
-## Contact
+## LinkedIn
 
 - GitHub: https://github.com/caruhi
 
