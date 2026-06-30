@@ -22,3 +22,5 @@ I'm a software developer and linguist interested in NLP, AI and data science.
 {% for post in site.posts %}
 - **[{{ post.title }}]({{ post.url }})** — {{ post.date | date: "%Y-%m-%d" }}
 {% endfor %}
+
+Posts count: {{ site.posts | size }}
