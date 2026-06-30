@@ -1,3 +1,12 @@
 title: Language is a virus from outer space
 description: Thoughts on data, language and information
 theme: minima
+minima:
+  skin: classic
+  
+markdown: kramdown
+
+kramdown:
+  syntax_highlighter: rouge
+kramdown:
+  toc_levels: 1..3

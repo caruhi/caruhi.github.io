@@ -24,3 +24,9 @@ I'm a software developer and linguist interested in NLP, AI and data science. I 
 {% endfor %}
 
 Posts count: {{ site.posts | size }}
+
+
+<nav>
+  <a href="/">Home</a> |
+  <a href="/blog">Blog</a>
+</nav>

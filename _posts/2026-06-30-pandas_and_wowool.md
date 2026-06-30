@@ -1,7 +1,11 @@
+* TOC
+{:toc}
+
 ---
 layout: post
 title: "Pandas and Wowool"
 date: 2026-06-30
+tags: [python, pandas, nlp, data-engineering]
 ---
 
 Sometimes, interesting facts in your structured data turn out to be unstructured — for example, a column in a CSV file where an analyst has written comments or other information that does not fit the schema.
@@ -51,3 +55,7 @@ Finally, we apply the function to the dataframe while preserving the original da
 rasff_food_serious['food_entity'] = rasff_food_serious['subject'].apply(get_food)
 
 ```
+
+<div style="padding:10px; border-left:4px solid #3498db; background:#f4f8ff;">
+<strong>Note:</strong> To install wowool portal of SDK check wowool.com.
+</div>
